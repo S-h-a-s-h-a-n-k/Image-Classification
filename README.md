@@ -1,3 +1,7 @@
 # Image-Classification
-This is a deep learning model implemented for image classification invloving 5 different classes. A deep neural network is created using Tensorflow and Keras. A trasnfer learning model covering VGG-16 is also implemented on same dataset.<br/>
+- Implementing a deep learning model using Tensorflow and Keras.                                                              
+- This model classifies 5 different types of images, forest, sea, street, glacier and buildings.
+- Built CNN involving convolutional layer, max pooling layer and dropout layer.
+- Achieved accuracy of 0.767 on test dataset in just 50 epochs.
+- Also Includes a use of Transfer Learning using VGG_16.<br/>
 Link for dataset used : [Dataset](https://drive.google.com/uc?id=1Qc66kVqetwJIK7cKXnXxbPJy6gnpRSRI)
