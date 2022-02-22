@@ -1,4 +1,4 @@
-# Image-Classification
+# Image Classification
 - Implemented a deep learning model using Tensorflow and Keras.                                                              
 - This model classifies 5 different types of images, forest, sea, street, glacier and buildings.
 - Built CNN involving convolutional layer, max pooling layer and dropout layer.
